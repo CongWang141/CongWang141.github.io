@@ -1,12 +1,10 @@
 ---
 title: "Review: empirical asset pricing via machine learning"
-date: "2022-11-17"
+date: 2022-11-17
 permalink: /posts/review_eap_ml/
 
-excerpt: For a long time **machine learning** has been used in the financial industry, especially in the empirical asset pricing field. This paper conducts a comparative analysis among different machine learning methods, sets the lower bar for the out of sample predicting power of each methods. Since its publication, it already has more than 1000 citations and has become the benchmark for machine learning research.
-
 tags: 
-- machine learning
+  - machine learning
 
 ---
 
