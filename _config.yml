@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Charles's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cong (Charles) Wang"
 description              : &description "personal description"
 url                      : https://congwang141.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic1.png"
   bio              : "An economist loves data science"
   location         : "Rome Italy"
-  employer         :
+  employer         : "Sapienza University of Rome"
   pubmed           : 
   googlescholar    : 
   email            : "cong.wang@uniroma1.it"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/CongWang141"
+  github           : "CongWang141"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cong-wang131"
+  linkedin         : "cong-wang131"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/hopsss131"
+  twitter          : "hopsss131"
   vine             :
   weibo            :
   xing             :
