@@ -3,7 +3,7 @@ title: "Multi-Measures Stock Return Prediction Using Neural Network Models"
 collection: research
 permalink: /research/ml_paper
 excerpt: 'working in progress'
-#date: 2023-03-01
+date: 2023-03-01
 #venue: ''
 #paperurl: ''
 #citation: ''

@@ -3,7 +3,7 @@ title: "Sustainability Pays Off: Investigating the Impact of ESG Scores on Corpo
 collection: research
 permalink: /research/esg_firm_performance
 excerpt: 'working in progress'
-#date: 2023-03-01
+date: 2022-03-01
 #venue: ''
 #paperurl: ''
 #citation: ''
