@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cong Wang!"
+title: "Hello, this is Cong Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ PhD student studying Economics at Sapienza University of Rome.
 
 Outside my research, I like coding, documentary, and travelling, I will not forget to mention my favorite Italian Spritz!!!
 
-Aboout myself
+Research Interests
 ======
 My research covers topics in the broad area of Econometrics, especially in causal inference, treatment effect, machine learning, and their applications in the field of climate and environmental economics.
 
