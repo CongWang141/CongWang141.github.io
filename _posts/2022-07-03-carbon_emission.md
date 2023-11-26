@@ -1,7 +1,7 @@
 ---
 title: "Global Carbon Emission Analysis"
 date: 2022-07-30
-permalikn: /posts/2022/07/blog-post-1/
+permalikn: /posts/2022/07/carbon_emission/
 tags: 
 - Carbon Emission
 excerpt_separator: <!--more-->
