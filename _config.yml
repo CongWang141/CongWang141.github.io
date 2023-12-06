@@ -146,7 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - teaching
+  - _teaching # remove the teaching session
 keep_files:
   - .git
   - .svn
