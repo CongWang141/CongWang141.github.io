@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-PhD student studying Economics at Sapienza University of Rome.
+![pic about climate finance](/images/climate_finance.png){: .align-right width="300px"}
 
-Outside my research, I like coding, documentary, and travelling, I will not forget to mention my favorite Italian Spritz!!!
+🐸 I am a final year PhD student in Economics at Sapienza University of Rome.
+
+🎭 Outside my research, I like coding, documentary, and travelling, I will not forget to mention my favorite Italian Spritz!!!
 
 Research Interests
 ======
-My research covers topics in the broad area of Econometrics, especially in causal inference, treatment effect, machine learning, and their applications in the field of climate and environmental economics.
+📝 My research covers topics in the broad area of Econometrics, mainly in causal inference, machine learning, and their applications in the field of climate finance.
 
-I Like documentary “Planet Earth”, now [Our Planet](https://www.ourplanet.com/en/) has better quality and the same David Attenborough. Concern about climate change, try to quantify the risk in the financial market and real economy.
+🐝 I Like documentary “Planet Earth”, now [Our Planet](https://www.ourplanet.com/en/) has better quality and the same David Attenborough. Concern about climate change, try to quantify the risk in the financial market and real economy.
 
 Contact
 ======
