@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cong Wang"
 title_separator          : "-"
-name                     : &name "Cong (Charles) Wang"
+name                     : &name "Cong Wang"
 description              : &description "personal description"
 url                      : https://congwang141.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
