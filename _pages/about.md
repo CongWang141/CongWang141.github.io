@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![pic about climate finance](/images/climate_finance.png){: .align-right width="300px"}
+![pic about climate finance](/images/climate_finance.png){: .align-right width="250px"}
 
 🐸 I am a PhD student in Economics at Sapienza University of Rome.
 
