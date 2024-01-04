@@ -1,6 +1,6 @@
 ---
 title: "Literature Light Map"
-excerpt: "This portfolio contains a roadmap illustrating the interconnections among influential papers in the field of causal inference. It features detailed replications and discussions of some seminal works. <br/><img src='/images/500x300.png'>"
+excerpt: "This portfolio contains a roadmap illustrating the interconnections among influential papers in the field of causal inference. It features detailed replications and discussions of some seminal works. <br/><img src='/images/literature_lightmap.png'>"
 collection: portfolio
 ---
 
