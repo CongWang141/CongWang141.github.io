@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Literature Light Map"
+excerpt: "This portfolio contains a roadmap illustrating the interconnections among influential papers in the field of causal inference. It features detailed replications and discussions of some seminal works. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Literature Light Map for Causal Inference
+
+This repository is used for replicate cutting edge papers in the filed of causal inference. The excel file ``Literature Light Map`` shows how these papers are inter connected. 
+
+## How to contribute
+Add papers you think that pushed the frontier in this area, and built the Literature Light Map together. (With and without replication code are both welcomed!)
+
+## Roadmap
++ Each folder relates to a specific topic.
++ Inside each folder, there are related papers and replication codes.
++ All the data used in these anlysis are stored in the data folder.
++ The reading list contains papers are about to be replicated.
+
+## Here is the link
+[Literature Light Map](https://github.com/CongWang141/Literature-Light-Map)
