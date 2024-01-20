@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student in Economics at Sapienza University of Rome.
 
-I will be in the 2024/25 Econ Job Market!
+**I will be in the 2024/25 Econ Job Market!**
 
 Research Interests
 ======
