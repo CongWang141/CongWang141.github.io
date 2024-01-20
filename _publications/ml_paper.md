@@ -3,6 +3,7 @@ title: "Stock Return Prediction with Multiple Measures Using Neural Network Mode
 collection: research
 permalink: /research/ml_paper
 excerpt: '_Forthcoming in Financial Innovation 2024_'
+excerpt_separator: <!--more-->
 #date: 
 #venue: ''
 #paperurl: ''
