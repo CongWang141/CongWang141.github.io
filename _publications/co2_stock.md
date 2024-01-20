@@ -2,8 +2,8 @@
 title: "Firms’ Carbon Emissions and Stock Returns"
 collection: research
 permalink: /research/co2_stock
-excerpt: 'working paper'
-date: 2023-09-01
+excerpt: 'working paper 2023-09-01'
+#date: 
 excerpt_separator: <!--more-->
 
 #venue: ''

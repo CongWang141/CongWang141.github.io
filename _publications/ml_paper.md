@@ -2,8 +2,8 @@
 title: "Stock Return Prediction with Multiple Measures Using Neural Network Models"
 collection: research
 permalink: /research/ml_paper
-excerpt: '_Forthcoming in Financial Innovation_'
-date: 2023-03-01
+excerpt: '_Forthcoming in Financial Innovation 2024_'
+#date: 
 #venue: ''
 #paperurl: ''
 #citation: ''

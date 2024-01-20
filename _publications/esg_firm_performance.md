@@ -2,8 +2,8 @@
 title: "Sustainability Pays Off: Investigating the Impact of ESG Scores on Corporate Financial Performance Worldwide"
 collection: research
 permalink: /research/esg_firm_performance
-excerpt: 'work in progress'
-date: 2022-03-01
+excerpt: 'work in progress 2022-03'
+#date: 
 #venue: ''
 #paperurl: ''
 #citation: ''
