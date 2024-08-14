@@ -3,7 +3,7 @@ title: "Firms’ Carbon Emissions and Stock Returns"
 collection: research
 permalink: /research/co2_stock
 date: 2023-09-01
-venue: 'working paper'
+venue: 'Working Paper'
 excerpt: 'In recent years, unanticipated climate change risks have propelled green portfolios to achieve superior returns compared to their brown counterparts. Paradoxically, both empirical and theoretical evidence underscore a perplexing phenomenon: brown firms, characterized by higher carbon emissions or lower ESG (Environmental, Social, and Governance) scores, tend to yield greater expected stock returns.'
 
 #paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582276'
