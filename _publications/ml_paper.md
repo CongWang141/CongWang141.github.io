@@ -3,7 +3,7 @@ title: "Stock Return Prediction with Multiple Measures Using Neural Network Mode
 collection: research
 permalink: /research/ml_paper
 date: 2023-03-01
-venue: 'Published on Financial Innovation'
+venue: 'Financial Innovation'
 excerpt: 'In the field of empirical asset pricing, the challenges of high dimensionality, non-linear relationships, and interaction effects have led to the increasing popularity of machine learning (ML) methods. This study investigates the performance of ML methods when predicting different measures of stock returns from various factor models and investigates the feature importance and interaction effects among firm-specific variables and macroeconomic factors in this context.'
 #paperurl: ''
 #citation: ''
