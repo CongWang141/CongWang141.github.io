@@ -20,8 +20,7 @@ Research Interests
 
 I am on the 2024/25 Econ Job Market!
 ======
-Here is my Job Market [Paper](https://arxiv.org/abs/2408.09271)!
-
+Here is my Job Market [Paper](https://arxiv.org/abs/2408.09271)! And [Slides](./files/ipca_slides.pdf)!
 
 Here is my most updated [CV](https://congwang141.github.io/files/congwang_cv.pdf)!
 
